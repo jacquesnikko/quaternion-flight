@@ -20,16 +20,11 @@ Missiles approach from ahead of the aircraft, entering just beyond the left or r
 
 ## Demo video
 
-Add the recorded gameplay clip at `Demo/QuaternionFlightDemo.mp4`; the embedded video below will display it in repository viewers that support MP4 embeds.
+The recorded gameplay demo is embedded below.
 
-<!-- Replace this placeholder with the committed or hosted demo clip before submission. -->
+<video src="Demo/GameplayDemo.mp4" controls width="800"></video>
 
-<video src="Demo/QuaternionFlightDemo.mp4" controls width="800"></video>
-
-The demo recording is not included yet. Record the clip and save it at `Demo/QuaternionFlightDemo.mp4` before submitting.
-
-To record the demo, show the player steering, a missile tracking the aircraft, the hit counter, and the restart after five hits. Also capture the missile count increasing after the 10-second survival marks.
-
+The demo shows steering, homing missiles, hit tracking, and the escalating waves.
 ## Project structure
 
 - `Assets/Scenes/Main.unity` — playable entry scene
